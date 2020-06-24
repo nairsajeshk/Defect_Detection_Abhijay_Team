@@ -1,0 +1,1 @@
+These are the training images used for the above model. To use this model for object detection, import the images of defected object and non-defected object to classify.
